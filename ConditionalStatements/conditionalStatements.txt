@@ -1,0 +1,104 @@
+Assignmanet
+
+
+1. Write a program to check whether a number is positive or negative.
+
+2. Write a program to check whether a number is even or odd.
+
+3. Write a program to check whether a person is eligible to vote or not.
+
+4. Write a program to check whether a number is greater than 100 or not.
+
+5. Write a program to check whether a given year is a leap year or not.
+
+6. Write a program to compare two numbers and print the greater one.
+
+7. Write a program to check whether a character is a vowel or consonant.
+
+8. Write a program to check whether a number is divisible by 5 or not.
+
+9. Write a program to check whether a student has passed or failed (pass marks = 40).
+
+10. Write a program to check whether a number is a single-digit number or not.
+
+11. Write a program to check whether a temperature is hot (>30) or cold.
+
+12. Write a program to check whether a person is a child or adult (age < 18).
+
+13. Write a program to check whether a number is zero or non-zero.
+
+14. Write a program to check whether a given character is uppercase or lowercase.
+
+15. Write a program to check whether a number is divisible by both 3 and 7 or not.
+
+16. Write a program to find the greatest of three numbers.
+
+17. Write a program to check grade based on marks (A, B, C, Fail).
+
+18. Write a program to check whether a number is positive, negative, or zero.
+
+19. Write a program to print the day name based on day number (1–7).
+
+20. Write a program to check ticket price based on age
+
+21. Write a program to find the smallest of three numbers.
+
+22. Write a program to check salary bonus based on years of service.
+
+23. Write a program to calculate electricity bill based on units consumed.
+
+24. Write a program to check exam results (Distinction, First Class, Pass, Fail).
+
+25. Write a program to check whether a triangle is equilateral, isosceles, or scalene.
+
+26. Write a program to check month names based on month number.
+
+27. Write a program to check login status based on username and password.
+28. Write a program to calculate discounts based on total shopping amount.
+
+29. Write a program to check blood donation eligibility based on age and weight.
+
+30. Write a program to check the type of number (single, double, or three digit).
+
+31. Write a program to check whether a number is positive and even using nested if.
+
+32. Write a program to check whether a student is eligible for an exam (attendance + 
+marks).
+
+33. Write a program to check whether a person can apply for a loan.
+
+34. Write a program to check whether a year is a leap year and century year.
+
+35. Write a program to check whether a number is divisible by 3 and 5.
+
+36. Write a program to check whether a person is eligible for a driving license.
+
+37. Write a program to check whether a number lies between 10 and 50.
+
+38. Write a program to check whether a student passed all subjects.
+
+39. Write a program to check whether a number is greater than 0 and less than 100.
+
+40. Write a program to check whether a password is valid using nested if.
+
+41. Write a program to print weekday name using match case.
+
+42. Write a program to perform calculator operations using match case.
+
+43. Write a program to print month days using match case.
+
+44. Write a program to check traffic signal actions using match case.
+
+45. Write a program to print menu-based food selection using match case.
+
+46. Write a program to print grade description using match case.
+
+47. Write a program to check user role (admin, user, guest) using match case.
+
+48. Write a program to print language choice using match case.
+
+49. Write a program to print result status using match case.
+
+50. Write a program to build a simple ATM menu using a match case.
+
+

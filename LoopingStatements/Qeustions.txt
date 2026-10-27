@@ -1,0 +1,101 @@
+
+Python Assignments: For Loop and While Loop
+
+1. Print numbers from 1 to 10 using for loop.
+
+2. Print numbers from 10 to 1 using for loop.
+
+3. Print all even numbers between 1 and 50.
+
+4. Print all odd numbers between 1 and 50.
+
+5. Print multiplication table of a given number.
+
+6. Calculate sum of first 10 natural numbers.
+
+7. Calculate factorial of a number using for loop.
+
+
+8. Print all characters of a string.
+
+9. Print square of numbers from 1 to 10.
+
+10. Print cube of numbers from 1 to 10.
+
+11. Count number of digits in a number.
+
+12. Reverse a number using while loop.
+
+13. Check whether a number is palindrome.
+
+14. Print Fibonacci series up to n terms.
+
+15. Find sum of digits of a number.
+
+16. Print numbers divisible by 5 between 1 and 100.
+
+17. Find largest digit in a number.
+
+18. Print prime numbers between 1 and 50.
+
+19. Check whether a number is prime.
+
+20. Print pattern of stars (triangle).
+
+21. Print pattern of numbers.
+
+22. Find sum of even digits in a number.
+
+23. Find sum of odd digits in a number.
+
+24. Count vowels in a string.
+
+25. Count consonants in a string.
+
+26. Print ASCII values of characters in a string.
+
+27. Print all factors of a number.
+
+28. Check whether a number is Armstrong.
+
+29. Generate first n natural numbers using while loop.
+
+30. Generate first n even numbers.
+
+31. Generate first n odd numbers.
+
+32. Calculate power of a number without using pow().
+
+33. Print reverse of a string.
+
+34. Check whether a string is palindrome.
+
+35. Print multiplication tables from 1 to 5.
+
+36. Find sum of numbers entered by user until 0 is entered.
+
+37. Print numbers until user enters a negative number.
+
+38. Find smallest digit in a number.
+
+39. Count total words in a string.
+
+40. Print numbers which are perfect squares between 1 and 100.
+
+41. Print numbers which are perfect cubes between 1 and 100
+
+42. Calculate sum of squares of first n numbers.
+
+.43. Calculate sum of cubes of first n numbers.
+
+44. Print alternate characters of a string.
+
+45. Print numbers skipping multiples of 3.
+
+46. Print first n multiples of a number.
+
+47. Find product of digits of a number.
+
+48. Check whether number is strong number.
+
+49. Display menu-driven program using while loop.
