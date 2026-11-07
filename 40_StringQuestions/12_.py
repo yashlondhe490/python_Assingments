@@ -1,5 +1,6 @@
 '''
 
+12. Split a sentence into words using split().
 '''
 
 str1 = input("Enter a sentence :")
